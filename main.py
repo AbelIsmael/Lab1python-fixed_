@@ -13,4 +13,4 @@ elif (unit == "c" or unit == "C"):
   temp2 = ((temp1 * (1.8)+ 32))
   print (f"{(temp1)}° in Celsius is equivalent to {(temp2)}° Fahrenheit.")
 else:
-  print(f"Invalid unit ({unit}).");
+  print(f"Invalid unit({unit}).");
